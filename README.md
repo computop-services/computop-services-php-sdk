@@ -35,7 +35,7 @@ Alternatively you can download the package in its entirety. The [Releases](https
 Uncompress the zip file you download, and include the autoloader in your project:
 
 ```php
-require_once '/path/to/wallee-php-sdk/autoload.php';
+require_once '/path/to/computop-services-php-sdk/autoload.php';
 ```
 
 ## Usage
