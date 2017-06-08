@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/wallee-payment/wallee-php-sdk.svg?branch=master)](https://travis-ci.org/wallee-payment/wallee-php-sdk)
 
-# Wallee SDK for PHP
+# Computop-Services SDK for PHP
 
-This repository contains the open source PHP SDK that allows you to access Wallee from your PHP app.
+This repository contains the open source PHP SDK that allows you to access Computop-Services from your PHP app.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ This repository contains the open source PHP SDK that allows you to access Walle
 
 ## Documentation
 
-https://app-wallee.com/doc/api/web-service
+https://www.computop-services.com/en-us/doc/api/web-service
 
 ## Installation
 
@@ -30,7 +30,7 @@ composer require wallee/sdk
 
 ### Manual Installation
 
-Alternatively you can download the package in its entirety. The [Releases](https://github.com/wallee-payment/wallee-php-sdk/releases) page lists all stable versions.
+Alternatively you can download the package in its entirety. The [Releases](https://github.com/computop-services/computop-services-php-sdk/releases) page lists all stable versions.
 
 Uncompress the zip file you download, and include the autoloader in your project:
 
