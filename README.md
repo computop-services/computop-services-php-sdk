@@ -25,7 +25,7 @@ composer installed.
 Once composer is installed, execute the following command in your project root to install this library:
 
 ```sh
-composer require wallee/sdk
+composer require computop-services/sdk
 ```
 
 ### Manual Installation
@@ -48,7 +48,7 @@ require_once(__DIR__ . '/autoload.php');
 
 
 // Setup API client
-$client = new \Wallee\Sdk\ApiClient('YOUR_USER_ID', 'YOUR_API_KEY');
+$client = new \computop-services\Sdk\ApiClient('YOUR_USER_ID', 'YOUR_API_KEY');
 
 // Create API service instance
 $service = new \Wallee\Sdk\Service\AccountService($apiClient);
